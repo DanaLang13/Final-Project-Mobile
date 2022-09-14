@@ -1,0 +1,69 @@
+
+
+header{
+    text-align: center;
+    text-size-adjust: 150px;}
+
+nav{
+    text-align: center;
+    border: 0.5px solid black; 
+    background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+   
+.left{
+    float: left;
+    width: 50%;  
+    margin: 5px; 
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Belleza';
+    font-size: 20px;
+    background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.right{
+    float: right;
+    width: 50%;
+    margin: 5px; 
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Belleza;
+    font-size: 20px;
+    background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{ 
+    text-decoration: none;
+    padding: 50px;
+    }
+
+    
+    a:link, a:visited{
+        color: black;
+    }
+    
+.Reviews{
+ font-family: 'Architects Daughter'; 
+ font-size: 20px;
+ background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    text-align: center;
+    background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+footer{
+    background-image: url(Marble.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
